@@ -1,7 +1,7 @@
 # Tutorials
 
 The easiest way to get familiar with Navigo is to work through the tutorials.
-Tutorial notebooks live under `tutorials/notebooks/`, while runtime data and checkpoints come from the main `Navigo-release` repository.
+Tutorial notebooks live under `docs/tutorials/notebooks/`, while shared inputs are provided from `data/` and `checkpoints/`.
 
 ::::{grid} 1 2 2 2
 :gutter: 2
